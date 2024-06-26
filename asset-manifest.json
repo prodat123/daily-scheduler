@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/daily-scheduler/static/css/main.f88537bd.css",
+    "main.js": "/daily-scheduler/static/js/main.d8f6a503.js",
+    "static/js/453.bfe3c8d3.chunk.js": "/daily-scheduler/static/js/453.bfe3c8d3.chunk.js",
+    "index.html": "/daily-scheduler/index.html",
+    "main.f88537bd.css.map": "/daily-scheduler/static/css/main.f88537bd.css.map",
+    "main.d8f6a503.js.map": "/daily-scheduler/static/js/main.d8f6a503.js.map",
+    "453.bfe3c8d3.chunk.js.map": "/daily-scheduler/static/js/453.bfe3c8d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f88537bd.css",
+    "static/js/main.d8f6a503.js"
+  ]
+}
